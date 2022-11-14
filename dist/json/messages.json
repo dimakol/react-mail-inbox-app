@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "subject": "Good night",
+    "content": "Hi, wanted to talk to you about the weather that was today",
+    "hasBeenRead": false
+  },
+  {
+    "id": 2,
+    "subject": "Good afternoon",
+    "content": "Hi, wanted to talk to you about the news that was in the morning",
+    "hasBeenRead": false
+  },
+  {
+    "id": 3,
+    "subject": "Good morning",
+    "content": "Hi, wanted to talk to you about the job interview you had yesterday hope it went well, wish you all the best and goodluck",
+    "hasBeenRead": false
+  }
+]
