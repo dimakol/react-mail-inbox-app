@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+
+.back-button {
+  cursor: pointer;
+  float: left;
+}
+
+.home-button {
+  cursor: pointer;
+  float: right;
+}

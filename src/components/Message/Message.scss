@@ -1,0 +1,17 @@
+.message {
+  cursor: pointer;
+}
+
+.message-has-been-read {
+  background: rgba(0, 0, 0, 0.09);
+}
+
+.message-content-preview {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.icon {
+  padding: 0 10px;
+}
