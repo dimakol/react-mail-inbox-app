@@ -23,7 +23,7 @@ const Message = () => {
     dispatch(messagesActions.setMessageAsRead({ id: Number(id) }));
     const message = getMessageById(Number(id));
     setMessage(message);
-  }, [messages]);
+  }, [id, messages]);
 
   return (
     <>
