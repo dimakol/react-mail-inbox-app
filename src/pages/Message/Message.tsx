@@ -7,6 +7,8 @@ import { messagesActions } from "../../store/messages-slice";
 
 import IMessage from "../../interfaces/IMessage";
 
+import NoPageFound from "../NoPageFound/NoPageFound";
+
 import "./Message.scss";
 
 const Message = () => {
@@ -24,6 +26,10 @@ const Message = () => {
     const message = getMessageById(Number(id));
     setMessage(message);
   }, [id, messages]);
+
+  if (message === undefined) {
+    return <NoPageFound />;
+  }
 
   return (
     <>
