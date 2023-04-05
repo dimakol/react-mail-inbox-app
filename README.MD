@@ -5,14 +5,24 @@
 ## Requirements
 
 1. You may style the app as you wish as long as the functionalities meet the requirements.
-2. The app should contain 3 pages :
-   a. Home page - Will greet the user and let him know how many messages he has and how many unread out of them.
-   b. Inbox page - Display all messages.
+2. The app should contain 3 **pages** :
+   <br/>
+   a. **Home page -** Will greet the user and let him know how many messages he has and how many unread out of them.
+   <br/>
+   <br/>
+   b. **Inbox page -** Display all messages.
+   <br/>
    Each message should have a subject, content and a flag indicating if the message was read.
+   <br/>
    **Unread messages should be marked somehow.
+   <br/>
    **Display a one liner preview of the content. The full message will be displayed in the next view.
+   <br/>
    **Option to go back to previous page.
-   c. Message Page - When a user clicks on a message, it is redirected to a page that will display the entire message.
+   <br/>
+   <br/>
+   c. **Message Page -** When a user clicks on a message, it is redirected to a page that will display the entire message.
+   <br/>
    **Option to go back to previous page and to home page.
 
 ## Expectations
