@@ -1,9 +1,9 @@
 {
-  "name": "mail-inbox",
+  "name": "react-mail-inbox-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dimakol.github.io/mail-inbox/#",
+  "homepage": "https://dimakol.github.io/react-mail-inbox-app/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
