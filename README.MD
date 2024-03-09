@@ -50,11 +50,23 @@
 
 ## Installation
 
-**Running in development environment**
+**Running Locally**
 
-- npm install
-- npm run dev
+git, npm and node softwares should be installed before moving on
 
-**Building**
+```bash
+git clone https://github.com/dimakol/react-mail-inbox-app.git
+cd react-mail-inbox-app
+npm install
+npm run dev
+```
 
-- npm run build
+**Building for production**
+
+```bash
+npm run build
+```
+
+## Deployed to Github pages
+
+https://dimakol.github.io/react-mail-inbox-app/
