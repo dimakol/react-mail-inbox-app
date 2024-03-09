@@ -1,6 +1,4 @@
-# Task description
-
-## Mail Inbox App
+# Mail Inbox App
 
 ## Requirements
 
